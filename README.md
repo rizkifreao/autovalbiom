@@ -211,3 +211,11 @@ Untuk memverifikasi layanan aktif setelah startup: akses
   dengan `autovalbiom.exe` untuk melihat detail error, lalu hubungi tim IT.
 - **Layanan diblokir antivirus** — tambahkan folder `AutoValBiom` ke pengecualian
   (exclusion) antivirus/Windows Defender yang terpasang.
+
+## Lisensi
+[GNU](./LICENSE)
+
+## Lainnya
+
+- [Pemecahan Masalah](https://github.com/rizkifreao/autovalbiom/issues)
+- [Laporkan Bug](https://github.com/rizkifreao/autovalbiom/issues/new)
