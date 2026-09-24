@@ -1,4 +1,4 @@
-# Valdiasi Biometrik BPJS Otomatis (AutoValBiom) RSUD JAILOLO
+# Validiasi Biometrik BPJS Otomatis (AutoValBiom) RSUD JAILOLO
 
 Layanan API lokal untuk automasi login & pengisian data pada aplikasi verifikasi
 biometrik BPJS Kesehatan (Sidik Jari & Face Recognition/Frista) yang terpasang di
