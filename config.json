@@ -1,0 +1,20 @@
+{
+    "host": "0.0.0.0",
+    "port": 5000,
+    "pathface": "C:\\frista.v.3.0.1\\frista.exe",
+    "pathfinger": "C:\\Program Files (x86)\\BPJS Kesehatan\\Aplikasi Sidik Jari BPJS Kesehatan\\After.exe",
+    "window_title_finger": "Aplikasi Registrasi Sidik Jari",
+    "window_title_frista": "Login Frista (Face Recognition BPJS Kesehatan)",
+    "window_title_frista_noka": "Frista (Face Recognition BPJS Kesehatan)",
+    "frista_login_button_offset_x": 403,
+    "frista_login_button_offset_y": 399,
+    "frista_noka_wait_seconds": 5,
+    "start_wait_seconds": 8,
+    "force_close_wait_seconds": 5,
+
+    "keep_on_top": true,
+    "prevent_minimize": true,
+    "window_position": "top-right",
+    "window_margin_px": 10,
+    "watchdog_interval_ms": 500
+}
